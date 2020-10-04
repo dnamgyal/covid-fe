@@ -1,10 +1,11 @@
 import React from 'react'
+import {Header} from 'semantic-ui-react'
 
 
 let Educate = () => {
 
     return (
-        <h1>Educate</h1>
+        <Header>Educate Yourself!</Header>
     )
 }
 
